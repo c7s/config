@@ -9,7 +9,7 @@
     "tslint": "tslint --project ."
   },
   "dependencies": {
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "0.10.1",
     "deep-extend": "0.6.0",
     "inversify": "5.0.1"
